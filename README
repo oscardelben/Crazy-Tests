@@ -3,3 +3,5 @@ Ok, this is something funny that I wanted to code today after reading this post:
 Basically, this program will just play a burp sound every time that one of your ruby tests fail. Run the example file if you're curious [NSFW].
 
 Note that the program uses the afplay command line tool, and it has only been tested on a mac.
+
+If you know of a better command line tool for playing sounds, send me an email at info[at]oscardelben.com and I'll update the code.
